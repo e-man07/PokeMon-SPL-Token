@@ -19,10 +19,10 @@ The PokeMon token project demonstrates how to create and manage an SPL token on 
 
 To run this project locally, you need the following:
 
-Node.js (version 16.x or higher)
-npm or yarn package manager
-Solana CLI (for deploying on localnet/devnet/mainnet)
-Phantom Wallet (optional for interacting with tokens via a browser extension)
+1. Node.js (version 16.x or higher)
+2. npm or yarn package manager
+3. Solana CLI (for deploying on localnet/devnet/mainnet)
+4. Phantom Wallet (optional for interacting with tokens via a browser extension)
 
 ## **License**
 
